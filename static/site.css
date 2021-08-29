@@ -1,0 +1,32 @@
+body{
+    color: red;
+    background-color: black;
+}
+.trail{
+    background-color: black;
+    height: 100rem;
+}
+.heading{
+    color: #f0ffff;
+    padding-left: 35%;
+}
+.story{
+    color: beige;
+    padding: 2.5% 10%;
+    background-color: black;
+}
+a:link{
+    color: lightslategray;
+    text-decoration: none;
+}
+a:hover{
+    color: lightseagreen;
+    text-decoration: none;
+}
+a:active{
+    color:lightsalmon;
+    text-decoration: none;
+}
+a:visited{
+    color: lightskyblue;
+}
